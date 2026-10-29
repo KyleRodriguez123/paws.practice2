@@ -1,0 +1,29 @@
+{
+  "name": "paws_and_haven",
+  "version": "1.0.0",
+  "description": "group 5 practice finals",
+  "keywords": [
+    "Group",
+    "5",
+    "section",
+    "A"
+  ],
+  "homepage": "https://github.com/KyleRodriguez123/paws.practice2#readme",
+  "bugs": {
+    "url": "https://github.com/KyleRodriguez123/paws.practice2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleRodriguez123/paws.practice2.git"
+  },
+  "license": "ISC",
+  "author": "Rodriguez, Nawanao, Nillas, Plete, Chaves, Radones, Calingacion",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
